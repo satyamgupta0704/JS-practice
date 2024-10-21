@@ -21,7 +21,7 @@ span{
     display: inline-flex;
 }
 #pink{
-    background: rgb(242, 134, 152);
+    background-color: rgb(242, 134, 152);
 }
 #white{
     background-color: #fff;

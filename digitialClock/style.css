@@ -1,0 +1,22 @@
+body{
+    background-color: #212121;
+    color: aliceblue;
+
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+#banner{
+    margin-bottom: 10px;
+
+}
+#clock{
+    background-color: coral;
+    padding: 20px 50px;
+    margin-top: 10px;
+    font-size:large;
+}
